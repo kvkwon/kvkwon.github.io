@@ -12,8 +12,7 @@ A blog about quantitative football modelling, betting markets and Python.
 
 ## Recent posts
 
-- [Why I started this blog](/2026/07/05/welcome.html)
-- [A first Poisson model idea for football](/2026/07/05/poisson-model-idea.html)
+- [Why I started this blog](/2026-07-05-welcome.html)
 
 ## Focus
 
