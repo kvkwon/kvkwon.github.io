@@ -1,4 +1,9 @@
-title: FC Quantitative Edge
-description: Quantitative football modelling, actionable betting markets insights
+title: FC Modelling
+description: Quantitative football modelling, predictive betting markets insights
 theme: jekyll-theme-minimal
 markdown: kramdown
+exclude:
+  - code
+  - venv
+  - requirements.txt
+  - README.md
