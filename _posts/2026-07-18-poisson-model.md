@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Modelling Football Matches with the Poisson Distribution"
-date: 2026-07-19
+date: 2026-07-18
 author: Kibum
 tags: [football, python, modelling, poisson, betting]
 categories: modelling python
