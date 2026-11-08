@@ -191,11 +191,11 @@ class PoissonGoalsModel:
 
 if __name__ == "__main__":
     DATA_PATH = "code/poisson_model/cutoff_results.csv"
-    HOME_TEAM = "Spain"
-    AWAY_TEAM = "Argentina"
+    HOME_TEAM = "France"
+    AWAY_TEAM = "England"
     NEUTRAL = True  # set True for a match played at a neutral venue
 
-    model = PoissonGoalsModel(max_goals=4)
+    model = PoissonGoalsModel(max_goals=6)
     model.fit(DATA_PATH)
 
     print(f"Model fitted on {len(model.matches)} matches. Coefficients:")
